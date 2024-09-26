@@ -16,7 +16,7 @@
         <h2><b>Listado de Productos</b></h2>
     </div>
     <div class="Boton-A">
-        <a class="btn btn-success" href="Create.php"><span class="icon-plus-circle"></span> Agregar Usuario</a>
+        <a class="btn btn-success" href="Create.php"><span class="icon-plus-circle"></span> Agregar Productos</a>
     </div>
 </div>
 <main class="Tabla-Productos">
