@@ -35,7 +35,7 @@ Este es un proyecto de práctica desarrollado como estudiante, que simula un sis
 
 ## 📸 Video
 
-https://drive.google.com/file/d/1UQgWJJUqVRUzB8xXD94zxxMYkjds_FcZ/view?usp=sharing
+[Ver demostración del sistema](https://drive.google.com/file/d/1UQgWJJUqVRUzB8xXD94zxxMYkjds_FcZ/view?usp=sharing)
 
 ## 📌 Estado del proyecto
 
