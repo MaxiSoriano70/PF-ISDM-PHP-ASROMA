@@ -1,6 +1,6 @@
 # 🛒 E-commerce Deportivo
 
-Este es un proyecto de práctica desarrollado como estudiante, que simula un sistema de ventas online de productos deportivos. El sitio permite navegar por distintas categorías, visualizar productos con imágenes, gestionar un carrito de compras y realizar un login básico.
+Este es un **Trabajo Práctico final del instituto**, desarrollado como estudiante, que simula un sistema de ventas online de productos deportivos. El sitio permite navegar por distintas categorías, visualizar productos con imágenes, gestionar un carrito de compras y realizar un login básico.
 
 ## 🚀 Tecnologías utilizadas
 
