@@ -46,6 +46,7 @@ Este es un trabajo práctico, desarrollado durante la carrera de **Técnico Anal
 
 Desarrollado por **Maximiliano Soriano**
 📧 maxi.soriano.70.23@gmail.com
+🔗 LinkedIn: [linkedin.com/in/maximilianosoriano](https://www.linkedin.com/in/maximiliano-soriano/)
 
 ---
 
