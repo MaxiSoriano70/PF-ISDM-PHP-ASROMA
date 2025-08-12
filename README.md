@@ -46,6 +46,7 @@ Este es un proyecto de práctica desarrollado como estudiante, que simula un sis
 
 Desarrollado por **Maximiliano Soriano**
 📧 maxi.soriano.70.23@gmail.com
+🔗 LinkedIn: [linkedin.com/in/maximilianosoriano](https://www.linkedin.com/in/maximiliano-soriano/)
 
 ---
 
